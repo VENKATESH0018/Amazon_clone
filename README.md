@@ -40,12 +40,6 @@ This project is a frontend clone of the Amazon e-commerce platform built using *
 ### Homepage:
 ![Homepage](path/to/homepage_screenshot.png)
 
-### Product Page:
-![Product Page](path/to/product_page_screenshot.png)
-
-### Cart Page:
-![Cart Page](path/to/cart_page_screenshot.png)
-
 ---
 
 ## 🧰 How to Run the Project
